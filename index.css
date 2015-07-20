@@ -1,23 +1,16 @@
 img{
-	margin: 0px;
-    padding: 0px;	
-}
-li {
-    float: left;
+	margin: 50px;
+    padding: 50px;	
+	
 }
 
 a {
     display: block;
     width: 60px;
 }
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-}
 
 a:link, a:visited {
+	
     display: block;
     width: 120px;
     font-weight: bold;
@@ -32,3 +25,21 @@ a:link, a:visited {
 a:hover, a:active {
     background-color: #7A991A;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+  float: right;
+}
+form {
+margin: 20px;
+padding: 20px;
+}
+
+
+
+
